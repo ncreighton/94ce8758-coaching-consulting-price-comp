@@ -1,2 +1,28 @@
-# 94ce8758-coaching-consulting-price-comp
-switching between tabs and losing context costs you real money. This browser extension pays for itself in one use.  Works directly in Chrome, Edge, and Brave — no switching apps required. Under 1MB. Zero performance impact on browser speed.  ## What's Included  - Coaching Consulting Price Comparison And Deal Finder — fully configured and ready to u
+# Coaching Consulting Price Comparison and Deal Finder Chrome Extension
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic functionality | Yes | Yes |
+| Community support | Yes | Yes |
+| Standard features | Yes | Yes |
+| Advanced automation | - | Yes |
+| Priority support | - | Yes |
+| Custom configurations | - | Yes |
+| Auto-updates | - | Yes |
+| Premium integrations | - | Yes |
+| Unlimited usage | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/dRm3cv12DgaU7BC47qcZA1X)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/dRm3cv12DgaU7BC47qcZA1X)
+
